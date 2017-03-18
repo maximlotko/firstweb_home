@@ -9,6 +9,7 @@ import java.io.IOException;
 
 /**
  * Created by Max on 3/13/2017.
+ * Updated on 18.Mar.2017 - github commit test
  */
 @WebServlet(name = "HelloServlet", urlPatterns = "/hello")
 public class HelloServlet extends HttpServlet {
